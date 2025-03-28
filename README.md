@@ -17,6 +17,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -28,7 +29,7 @@
 
 ## 💡 A Little More About Me
 
-- 🧑‍💻 Currently diving deep into **React**, **TypeScript** and **AI**
+- 🧑‍💻 Currently diving deep into **React**, **TypeScript**, **Flutter** and **AI**
 - 🌐 Exploring cloud and containerization with **Docker**
 - 🧠 Curious about how **Artificial Intelligence** can shape the future
 - 🇯🇵 Studying **Japanese** and loving the culture
