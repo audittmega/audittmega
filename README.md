@@ -42,8 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=audittmega&show_icons=true&theme=tokyonight&count_private=true&hide_title=true"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=audittmega&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audittmega&layout=compact&theme=tokyonight&langs_count=8"/>
 </div>
 
 ---
