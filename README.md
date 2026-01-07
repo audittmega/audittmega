@@ -3,8 +3,6 @@
 <p align="center">
   🎓 Software Engineering student at <strong>University of Brasília (UnB)</strong>  
   <br/>
-  💼 Member of <a href="https://www.cjr.org.br/">CJR</a>, UnB's junior enterprise in Computer Science  
-  <br/>
   💻 Frontend enthusiast | 🤖 AI explorer | 🇯🇵 Japanese language student  
   <br/>
   🎶 Music lover | 💡 Lifelong learner
@@ -29,11 +27,11 @@
 
 ## 💡 A Little More About Me
 
-- 🧑‍💻 Currently diving deep into **React**, **TypeScript**, **Flutter** and **AI**
-- 🌐 Exploring cloud and containerization with **Docker**
-- 🧠 Curious about how **Artificial Intelligence** can shape the future
-- 🇯🇵 Studying **Japanese** and loving the culture
-- 📚 Always working on meaningful projects at CJR and beyond
+- 🧑‍💻 Focused on **Frontend Development**, with experience in **React**, **TypeScript** and **Flutter**
+- 🌐 Exploring **Docker**, system architecture and software engineering fundamentals
+- 🧠 Strong interest in **Artificial Intelligence** and its practical applications
+- 🇯🇵 Currently studying **Japanese** and deeply interested in the culture
+- 📚 Constantly learning and working on academic and personal software projects
 
 ---
 
@@ -50,8 +48,12 @@
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/audittmega"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/thiago__tonin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/audittmega">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/thiago__tonin">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
